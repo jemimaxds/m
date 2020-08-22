@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url('subset-OfficinaSansBookC.woff2') format('woff2'),
+        url('subset-OfficinaSansBookC.woff') format('woff'),
+        url('subset-OfficinaSansBookC.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url('subset-OfficinaSansBoldC.woff2') format('woff2'),
+        url('subset-OfficinaSansBoldC.woff') format('woff'),
+        url('subset-OfficinaSansBoldC.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OfficinaSans';
+    src: url('subset-OfficinaSansBlackC.woff2') format('woff2'),
+        url('subset-OfficinaSansBlackC.woff') format('woff'),
+        url('subset-OfficinaSansBlackC.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

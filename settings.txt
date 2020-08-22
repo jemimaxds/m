@@ -1,0 +1,2 @@
+landing_id=38113
+product_ids=8762
